@@ -6,9 +6,10 @@
 - [x] TextCNN 架构实现（0.96ms）
 - [x] BiLSTM 架构实现（14.96ms）
 - [x] MLP 架构实现（0.40ms）
-- [x] FastCNN 极致优化（0.18ms）⭐ 最终选择
+- [x] FastCNN 极致优化（0.18ms）
+- [x] **Dynamic Routing 架构（1.98ms）⭐ 最终选择（Novel!）**
 - [x] JIT 编译优化
-- [ ] INT8 量化（目标: 0.1ms）
+- [ ] INT8 量化（目标: 0.5ms）
 - [ ] ONNX 导出优化
 
 ### 1.2 训练 pipeline
