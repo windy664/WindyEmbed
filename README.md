@@ -1,4 +1,14 @@
+<div align="center">
+
+<img src="assets/banner.svg" alt="WindyEmbed" width="100%">
+
+</div>
+
 # WindyEmbed
+
+![Python](https://img.shields.io/badge/Python-3.x-3776ab?style=flat-square&logo=python&logoColor=white)
+![Runtime](https://img.shields.io/badge/Inference-ONNX%20Runtime%20%2F%20Java-0ea5e9?style=flat-square)
+![CPU](https://img.shields.io/badge/CPU-only%20%202--5ms-3da639?style=flat-square)
 
 **为垃圾服务器设计的轻量级 Embedding 模型**
 
